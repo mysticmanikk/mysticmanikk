@@ -3,7 +3,7 @@
 <!--
 **mysticmanikk/mysticmanikk** 
 
-Here are some of th eprojects that I contributed to significantly:
+Here are some of the projects that I contributed to significantly:
 
 #CIS434 SE Projects:
 
